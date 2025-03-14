@@ -56,8 +56,8 @@ Note: performance report file name is performance-report.txt
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/nestjs-analytics.git
-   cd nestjs-analytics
+   git clone https://github.com/UsamaAyub222/products-list-nestjs.git
+   cd nestjs-t1
 
 ---
 
