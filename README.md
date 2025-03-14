@@ -1,4 +1,4 @@
-# NestJS Analytics API with PostgreSQL and Redis
+# NestJS Analytics API with mySql and Redis
 
 This project is a NestJS-based API that retrieves and analyzes product sales data. It uses **mysql** as the primary database and **Redis** for caching to improve performance. The API provides an endpoint to fetch the top-selling products based on aggregated sales data. 
 
